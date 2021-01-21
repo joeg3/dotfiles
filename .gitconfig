@@ -1,0 +1,15 @@
+[user]
+	email = joe@xyz.com
+	name = Joe
+[core]
+	editor = vim
+[diff]
+	tool = p4merge
+[merge]
+	tool = p4merge
+[difftool]
+	prompt = false
+[mergetool]
+	prompt = false
+[alias]
+	hist = log --oneline --graph --decorate --all
