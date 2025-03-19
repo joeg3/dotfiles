@@ -13,3 +13,5 @@
 	prompt = false
 [alias]
 	hist = log --oneline --graph --decorate --all
+[push]
+	default = simple
